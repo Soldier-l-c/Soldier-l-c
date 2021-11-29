@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Soldier-l-c&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false&theme=highcontrast&count_private=true&include_all_commits=true" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Soldier-l-c&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false&title_color=3A50A3&theme=highcontrast&count_private=true&include_all_commits=true" /> 
 
 ### 👋 Hello 👻~
 
